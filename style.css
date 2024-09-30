@@ -1,3 +1,17 @@
+
 body { 
     background-color: rgb(146, 24, 202);
+    text-aline: center;
+}
+
+p {
+    color: rgb(98, 149, 162);
+}
+
+h1 {
+    font-style: italic;
+}
+
+.borboleta {
+    font_size: 25%;
 }
